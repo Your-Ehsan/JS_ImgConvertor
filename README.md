@@ -1,5 +1,5 @@
 
-# JS — Image Compressor & Resizer
+# JS — Image Compressor - Resizer & any Image to webp converter
 
 This Image Resizer & Compressor can resize and compress your any type of image and it can also convert any type of Image to `.webp`. It means this is also a any image `image/*` to `.webp` convertor 🎉. 
 
