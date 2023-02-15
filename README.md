@@ -6,4 +6,3 @@ This Image Resizer & Compressor can resize and compress your any type of image a
 ## Screenshots
 
 ![App Screenshot](https://github.com/Your-Ehsan/JS-Image_Compressor-Resizer/blob/master/assets/images/127.0.0.1_5501_.png?raw=true)
-
