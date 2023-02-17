@@ -17,4 +17,4 @@ Javascript, HTML, CSS...
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) ⚖
+[MIT](https://github.com/Your-Ehsan/JS-Image_Compressor-Resizer/blob/master/LICENSE) ⚖
