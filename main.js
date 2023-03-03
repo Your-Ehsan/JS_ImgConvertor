@@ -15,7 +15,7 @@ const loadFile = (e) => {
   SelectedIMG.src = URL.createObjectURL(file);
   SelectedIMG.addEventListener("load", () => {
     SelectedIMG.removeAttribute("hidden");
-    document.querySelector("#InputSVG").classList = "hidden"
+    document.querySelector("#InputSVG").classList = "hidden";
     InputText.className = "hidden";
     WidthInput.value = SelectedIMG.naturalWidth;
     HeightInput.value = SelectedIMG.naturalHeight;
